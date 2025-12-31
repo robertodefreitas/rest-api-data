@@ -1,0 +1,10 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "java.jdt.ls.java.home": "/opt/jdk21"
+  }
+}
